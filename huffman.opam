@@ -6,7 +6,7 @@ description:
 maintainer: ["Arthur Correnson <arthur.correnson@gmail.com>"]
 authors: ["Arthur Correnson <arthur.correnson@gmail.com>"]
 license: "MIT"
-doc: "https://github.com/jdrprod/huffman"
+doc: "https://jdrprod.github.io/huffman"
 homepage: "https://github.com/jdrprod/huffman"
 bug-reports: "https://github.com/jdrprod/huffman/issues"
 depends: [
