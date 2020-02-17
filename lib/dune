@@ -4,12 +4,3 @@
   (modules huffman))
 
 (documentation)
-
-(rule
-  (target doc/)
-  (action
-    (progn 
-      (run mkdir -p doc)
-      (run dune build @doc)
-      (run cp ./_build/default/_doc/_html/* doc/)
-    )))
