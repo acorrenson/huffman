@@ -2,7 +2,7 @@
 opam-version: "2.0"
 synopsis: "An OCaml library to manipulate Huffman trees"
 description:
-  "This package provides a functor-based implementation of the Huffman Algorithm."
+  "This package provides a simple implementation of the Huffman Algorithm."
 maintainer: ["Arthur Correnson <arthur.correnson@gmail.com>"]
 authors: ["Arthur Correnson <arthur.correnson@gmail.com>"]
 license: "MIT"

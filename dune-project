@@ -11,6 +11,6 @@
 (package
  (name huffman)
  (synopsis "An OCaml library to manipulate Huffman trees")
- (description "This package provides a functor-based implementation of the Huffman Algorithm.")
+ (description "This package provides a simple implementation of the Huffman Algorithm.")
  (depends
   (dune (>= 2.2))))
